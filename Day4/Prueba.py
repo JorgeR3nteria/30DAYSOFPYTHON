@@ -1,2 +1,0 @@
-frase= "MINISTERIO DE EDUCACIÓN Y CULTURA MEC"
-n=len(frase)
