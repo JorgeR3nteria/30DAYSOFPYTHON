@@ -76,4 +76,23 @@ if "on" in v1 and v2:
     print("False, if found in the 2 words")
 else:
     print("True, the word is not found")
-print("convert the 'python' word to decimals and then to string", str(float(len("python"))))
+print("Point 16\n""convert the 'python' word to decimals and then to string", str(float(len("python"))))
+#Data
+op1,op2=9.8,10
+#Output
+print("Point 20\n""Is it the same?",op1==op2)
+print("Point 21")
+#Operations
+User_Hours=int(input("Please, enter the number of hours worked: "))
+Hourly_rate=int(input("Please, enter an hourly rate number: "))
+operation=round(User_Hours*Hourly_rate)
+#Output
+print(operation)
+print("Point 22")
+#Data
+Año, day, hour, minutes= 365, 31, 60, 60
+#Informatión
+cant=int(input("Enter your current age:"))
+#Operations
+V=int(cant*Año*day*hour*minutes)
+print("Your have lived for",V,"Seconds")
