@@ -1,17 +1,20 @@
+#Día 5: 30 días de programación en Python
 list=[]
 l1=["Yugi","Joey","Bakura","Tea","Seto Kaiba"]
 e=0
 print("Point 1\n",list)
 print("Point 2\n",l1)
 print("Point 3\n",l1.__len__())
-print("Point 4\n""The first element is: ",l1[0],"\nThe middle element is: ",l1[2],"\nThe ultimate element is: ",l1[-1])
+middle=len(l1)//2
+print("Point 4\n""The first element is: ",l1[0],"\nThe middle element is: ",l1[middle],"\nThe ultimate element is: ",l1[-1])
 #Point 5
 mixed_data_types=["Jorge Renteria",23,1.72,"Soltero","Calle 90n #100-52"]
 #Point 6
 it_companies=["Facebook" , "Google" , "Microsoft" , "Apple" , "IBM" , "Oracle" ,"Amazon"]
 print("Point 7\n",it_companies)
 print("Point 8\n",it_companies.__len__())
-print("Point 9\n""First element is:",it_companies[0],"\nMiddle element is:",len(it_companies)//2,"\nUltimate element is:",it_companies[-1])
+Middle=len(it_companies)//2
+print("Point 9\n""First element is:",it_companies[0],"\nMiddle element is:",it_companies[Middle],"\nUltimate element is:",it_companies[-1])
 it_companies[3]="Whatsapp"
 print("Point 10\n",it_companies)
 it_companies.append("Cisco")

@@ -1,4 +1,4 @@
-#Dia 3: 30 días de programación en Python
+#Dia 4: 30 días de programación en Python
 print("Point 1\n"'Treinta'+" "+'dias'+" "+'de'+" "+'Python')
 print("Point 2\n"'Codificación'+" "+'para'+" "+'todos')
 empresa="Codificación para todos"
