@@ -1,4 +1,4 @@
-#Día 6: 30 días de programación en Python
+'''Día 6: 30 días de programación en Python'''
 tup=()
 #Point 2
 t_B=("David R","Omar E","Juan B","Julian C","Juan R")
