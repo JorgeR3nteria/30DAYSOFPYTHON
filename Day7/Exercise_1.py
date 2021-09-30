@@ -1,3 +1,4 @@
+'''Día 7: 30 días de programación en Python'''
 it_companies  = { 'Facebook' , 'Google' , 'Microsoft' , 'Apple' , 'IBM' , 'Oracle' , 'Amazon' }
 print("Point 01\n",len(it_companies))
 it_companies.add('twitter')
