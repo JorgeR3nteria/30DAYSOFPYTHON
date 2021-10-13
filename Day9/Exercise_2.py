@@ -29,4 +29,4 @@ if fruit in fruit_list:
     print('This fruit already exists in the list')
 else:
     fruit_list.append(fruit)
-    print('No such fruit found, added to the list')
+    print(fruit_list)
